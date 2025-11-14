@@ -63,7 +63,7 @@ Avant d'utiliser ce boilerplate Maven, assurez-vous d'avoir les outils suivants 
 
 2. Naviguez vers le répertoire du projet :
    ```bash
-   cd monorepo-maven-boilerplate
+   cd maven-boilerplate
    ```
 
 3. Installez les dépendances :
