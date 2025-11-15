@@ -25,23 +25,23 @@ This Maven project is a ready-to-use template for developing Java applications. 
 
 ```text
 .
-+-- LICENSE
-+-- maven-cli/                 # Demonstration console application
-�   +-- pom.xml
-�   +-- src/
-+-- maven-common/              # Shared code and common utilities
-�   +-- pom.xml
-�   +-- src/
-+-- maven-dependencies/        # Centralized dependency version definitions
-�   +-- pom.xml
-+-- maven-flatten-parent/      # Parent configuration for POM flattening
-�   +-- pom.xml
-+-- maven-parent/              # Common parent configuration for all modules
-�   +-- pom.xml
-+-- maven-tests/               # Integration tests and global coverage reports
-�   +-- pom.xml
-+-- pom.xml                    # Main POM for the multi-module project
-+-- README.md                  # Project documentation
+├── LICENSE
+├── maven-cli/                 # Demonstration console application
+│   ├── pom.xml
+│   └── src/
+├── maven-common/              # Shared code and common utilities
+│   ├── pom.xml
+│   └── src/
+├── maven-dependencies/        # Centralized dependency version definitions
+│   └── pom.xml
+├── maven-flatten-parent/      # Parent configuration for POM flattening
+│   └── pom.xml
+├── maven-parent/              # Common parent configuration for all modules
+│   └── pom.xml
+├── maven-tests/               # Integration tests and global coverage reports
+│   └── pom.xml
+├── pom.xml                    # Main POM for the multi-module project
+└── README.md                  # Project documentation
 ```
 
 ## Prerequisites
