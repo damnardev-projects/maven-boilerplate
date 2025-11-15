@@ -27,19 +27,19 @@ This Maven project is a ready-to-use template for developing Java applications. 
 .
 +-- LICENSE
 +-- maven-cli/                 # Demonstration console application
-¦   +-- pom.xml
-¦   +-- src/
+ï¿½   +-- pom.xml
+ï¿½   +-- src/
 +-- maven-common/              # Shared code and common utilities
-¦   +-- pom.xml
-¦   +-- src/
+ï¿½   +-- pom.xml
+ï¿½   +-- src/
 +-- maven-dependencies/        # Centralized dependency version definitions
-¦   +-- pom.xml
+ï¿½   +-- pom.xml
 +-- maven-flatten-parent/      # Parent configuration for POM flattening
-¦   +-- pom.xml
+ï¿½   +-- pom.xml
 +-- maven-parent/              # Common parent configuration for all modules
-¦   +-- pom.xml
+ï¿½   +-- pom.xml
 +-- maven-tests/               # Integration tests and global coverage reports
-¦   +-- pom.xml
+ï¿½   +-- pom.xml
 +-- pom.xml                    # Main POM for the multi-module project
 +-- README.md                  # Project documentation
 ```
@@ -63,7 +63,7 @@ Before using this Maven boilerplate, ensure you have the following tools install
 
 2. Navigate to the project directory:
    ```bash
-   cd monorepo-maven-boilerplate
+   cd maven-boilerplate
    ```
 
 3. Install dependencies:
