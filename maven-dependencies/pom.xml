@@ -51,7 +51,7 @@
         <maven.failsafe.plugin.version>3.5.4</maven.failsafe.plugin.version>
         <maven.jar.plugin.version>3.5.0</maven.jar.plugin.version>
         <maven.surefire.plugin.version>3.5.4</maven.surefire.plugin.version>
-        <versions.maven.plugin.version>2.19.1</versions.maven.plugin.version>
+        <versions.maven.plugin.version>2.20.1</versions.maven.plugin.version>
     </properties>
 
     <dependencyManagement>
